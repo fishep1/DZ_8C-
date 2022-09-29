@@ -1,4 +1,5 @@
-﻿Console.WriteLine("введите количество строк");
+﻿//Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.
+Console.WriteLine("введите количество строк");
 int linesVol = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите количество столбцов");
 int columnsVol = Convert.ToInt32(Console.ReadLine());
